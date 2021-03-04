@@ -19,3 +19,4 @@ infect_distance = 5
 infect_rate= 0.5
 ```
 ![image text](https://github.com/Lee-xinjie/simulation/blob/main/1.png)
+![image text](https://github.com/Lee-xinjie/simulation/blob/main/result.png)
