@@ -18,3 +18,4 @@ infect_distance = 5
 # 传染几率 50%
 infect_rate= 0.5
 ```
+![image text](
